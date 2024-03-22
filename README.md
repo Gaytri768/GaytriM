@@ -1,2 +1,2 @@
-# GaytriM
-This is my first git repository 
+# MGaytri
+This is my first Git repository 
